@@ -8,7 +8,7 @@ const AdBanner = () => {
       <div className="w-1/2 bg-gray-200 rounded-lg flex items-center justify-center p-6">
         <div className="text-center">
         <img
-              src="https://s3-alpha-sig.figma.com/img/ef02/d1db/263e787dceaa0e3d8c30e163080b0d2b?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mofsdKToKr9SeP5Np2RMzRnwfu7QzsmUAKtCL-7-pRNBUWqD8I2LbIhNphkUScnGGukmtj1rxjBSFWc8zDXXjAokydKqTxFHs3llGPKzsACWUJ7hR08fPvx7BiJTFN6FTznOnNyGciU8iCqbZAZ8ewf3Zr6qU04gCLcBv6RSwIO~~ydaGfXf1zOsvIixFGw4QI2VeTZYXxoSgceKU7q6PlyQwjY1nTWyjqk0BF25GEJkB9KHVyLYf4Wjp8M3UJ~mJBPJ-HG~n7SNKDk8z7oCTPllvA8tp3z0t2SaH8-EO10bVZiDOsYwQJA5C~uMnU0ZuVdQ5g5LNX-eLJEY-FrZeg__"
+              src="https://s3-alpha-sig.figma.com/img/ef02/d1db/263e787dceaa0e3d8c30e163080b0d2b?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mJNwMjN2-l2zYWq~zMdqbfgDXAj~~4qEjCFE8jGmGzjbeZch-CfkLrMW6ysVp2Z-WJiCwh1l40jZmLatm7qPTmbckKId2AaABSZNlx39Bkhp5gErs-ob4CxtNpdagWj6uFSPHd~kG9sU-FG-Ozt-Kh5Tje3jJUnrgKh0o1PwQw6-noKVmten6pBIcVI2LZLuOnT6V-wFPGz6hfZQ~PW9ToLze4nSnj-L3CS6b~l7m3vUzShanYtwu--RMV00Z0mLkQjO4gPHUDaCQToTveJCrS6vxgJEI-RRXXZPcNufw45Pio3i5HiPKZMJToo5oXgXHnk3JjNe5GNicaFUsO~N0A__"
               alt="Noise Cancelling Headphone"
               className="w-full h-full object-cover rounded-md"
             />
